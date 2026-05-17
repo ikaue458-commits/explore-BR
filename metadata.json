@@ -1,0 +1,8 @@
+{
+  "name": "Explore BR",
+  "description": "Descubra o Brasil com fotógrafos e motoristas locais. Seu portal completo de turismo nacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
